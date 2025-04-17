@@ -1,0 +1,51 @@
+[
+  {
+    "id": 1,
+    "name": "Black Mamba",
+    "price": 80,
+    "image": "images/shirt-1.png"
+  },
+
+  {
+    "id": 2,
+    "name": "Off White",
+    "price": 40,
+    "image": "images/shirt-2.png"
+  },
+  {
+    "id": 3,
+    "name": "Akagami Red",
+    "price": 90,
+    "image": "images/shirt-3.png"
+  },
+  {
+    "id": 4,
+    "name": "Full Button Black",
+    "price": 250,
+    "image": "images/shirt-4.png"
+  },
+  {
+    "id": 5,
+    "name": "Yellow Polo",
+    "price": 90,
+    "image": "images/shirt-5.png"
+  },
+  {
+    "id": 6,
+    "name": "Full Button Grey",
+    "price": 100,
+    "image": "images/shirt-6.png"
+  },
+  {
+    "id": 7,
+    "name": "Oversize Full Button",
+    "price": 120,
+    "image": "images/shirt-7.png"
+  },
+  {
+    "id": 8,
+    "name": "Green Olive Polo",
+    "price": 30,
+    "image": "images/shirt-8.png"
+  }
+]
